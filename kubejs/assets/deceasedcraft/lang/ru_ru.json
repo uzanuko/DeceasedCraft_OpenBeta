@@ -1,14 +1,14 @@
 {
-  "deceasedcraft.advancement.title.exploration": "Мастер городских исследований",
+  "deceasedcraft.advancement.title.exploration": "'Эксперт городских исследований",
   "deceasedcraft.advancement.description.exploration": "Исследуйте каждое здание!",
-  "deceasedcraft.advancement.title.building": "Мастерство малых зданий",
+  "deceasedcraft.advancement.title.building": "Эксперт по небольшим зданиям",
   "deceasedcraft.advancement.description.building": "Исследуйте все малые здания!",
-  "deceasedcraft.advancement.title.large_building": "Мастерство мегазданий",
+  "deceasedcraft.advancement.title.large_building": "Эксперт по мегазданиям",
   "deceasedcraft.advancement.description.large_building": "Исследуйте все мегаздания!",
   "deceasedcraft.advancement.title.suburb_residential": "Район: Жилой пригород",
-  "deceasedcraft.advancement.description.suburb_residential": "Посетите жилой район пригорода",
-  "deceasedcraft.advancement.title.highrise_office": "Район: Офис в высотке",
-  "deceasedcraft.advancement.description.highrise_office": "Посетите район офисов в высотках",
+  "deceasedcraft.advancement.description.suburb_residential": "Посетите жилой район",
+  "deceasedcraft.advancement.title.highrise_office": "Район:Офисные небоскребы",
+  "deceasedcraft.advancement.description.highrise_office": "Посетите район офисных ",
   "deceasedcraft.advancement.title.highrise_hotel": "Район: Отель в высотке",
   "deceasedcraft.advancement.description.highrise_hotel": "Посетите район отелей в высотках",
   "deceasedcraft.advancement.title.highrise_residential": "Район: Жилой в высотке",
@@ -2734,4 +2734,5 @@
   "npc.deceasedcraft.professor.quest.cure_sample.completedlog": "",
   "npc.deceasedcraft.professor.quest.cure_sample.1": "",
   "npc.deceasedcraft.professor.quest.cure_sample.answer.1": ""
+
 }
