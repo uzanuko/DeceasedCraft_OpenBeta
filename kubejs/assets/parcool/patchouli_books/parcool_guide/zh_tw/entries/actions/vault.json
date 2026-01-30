@@ -1,0 +1,24 @@
+{
+    "name": "翻越",
+    "icon": "minecraft:oak_fence",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)翻越$()是越過柵欄等障礙物的技術。$(br)遊戲中有多種變體，包括 $(italic)Speed Vault$() 與 $(italic)Kong Vault$()。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/speed_vault.png"
+            ],
+            "title": "Speed Vault"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(bold)1.$() 進入 $(l:parcool:actions/fast_run)快速跑步$() 狀態$(br)$(bold)2.$() 跑向並接觸目標方塊"
+        }
+    ]
+}

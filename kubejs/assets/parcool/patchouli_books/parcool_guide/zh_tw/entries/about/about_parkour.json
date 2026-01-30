@@ -1,0 +1,12 @@
+{
+    "name": "什麼是跑酷？",
+    "icon": "minecraft:golden_boots",
+    "category": "parcool:category_about",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(italic)跑酷 (Parkour)$() 是一種運動，由 $(italic)David Belle$() 所開發。$(br)跑酷是一種人類盡可能以最快速度、僅憑自身力量移動到另一個點的活動。$(br2)其名稱源自法語 $(italic)parcours$()，實踐者被稱為 $(italic)Traceur$()。$(br)有時跑酷也被稱為 $(italic)自由奔跑 (Free Running)$()，據說這是跑酷的英文翻譯。"
+        }
+    ]
+}

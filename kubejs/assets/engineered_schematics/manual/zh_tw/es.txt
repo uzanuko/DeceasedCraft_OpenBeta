@@ -1,0 +1,8 @@
+引言
+投影未來
+您好，歡迎使用 Engineered Schematics。
+
+Engineered Schematics 旨在成為使用《沉浸工程》(Immersive Engineering) 及其眾多擴充模組玩家的終極建築助手。
+此模組提供了建造複雜 <link;immersiveengineering:multiblocks;多方塊機器> 的詳細指南，確保你能快速、準確且高效地完成建造。
+無論你是經驗豐富的工程師還是剛起步的新手，Engineered Schematics 都能幫助你輕鬆應對這些進階建築。
+<link;engineered_schematics:schematic_table;讓我們開始吧>

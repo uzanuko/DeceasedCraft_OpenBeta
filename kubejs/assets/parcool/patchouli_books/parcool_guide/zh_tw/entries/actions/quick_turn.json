@@ -1,0 +1,16 @@
+{
+    "name": "快速轉身",
+    "icon": "minecraft:iron_helmet",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "有時你會需要立即轉向後方。按下一個鍵即可完成 180 度轉身。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)按下快速轉身鍵 ($(k:parcool.QuickTurn))"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "跳水",
+    "icon": "minecraft:cod",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "ParCool 增加了一種特殊的跳躍動畫：$(bold)跳水$()。請在第三人稱視角查看效果。此外，在跳躍數秒後再次按下跳躍鍵，跳水動作會轉變為空降動作。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/dive.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(bold)1.$() 進入 $(l:parcool:actions/fast_run)快速跑步$() 狀態$(br)$(bold)2.$() 從高處往寬闊空間跳躍"
+        }
+    ]
+}

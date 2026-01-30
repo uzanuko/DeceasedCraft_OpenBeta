@@ -1,0 +1,42 @@
+{
+    "name": "滑索",
+    "icon": "parcool:zipline_rope",
+    "category": "parcool:category_support_features",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "滑索是一種跑酷設施，它能連接兩個遙遠的點，讓玩家能快速在兩地之間穿梭。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/ride_zipline.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "滑索掛鉤",
+            "text": "首先決定滑索的兩個端點。接著我們需要在這兩個位置放置滑索掛鉤。$(br2)掛鉤共有兩種：木製掛鉤與鐵製掛鉤。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "parcool:wooden_zipline_hook",
+            "recipe2": "parcool:iron_zipline_hook"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "滑索繩索",
+            "text": "掛鉤放置好了嗎？接下來我們來製作滑索繩索。手持繩索時蹲下點擊右鍵可以切換繩索的張力。$(br2)對著兩個掛鉤依序使用繩索，即可將兩點連成滑索。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "parcool:zipline_rope"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list) 跳向滑索並在靠近時按下乘坐滑索鍵 ($(k:parcool.RideZipline))"
+        }
+    ]
+}

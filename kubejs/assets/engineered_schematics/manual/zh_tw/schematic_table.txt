@@ -1,0 +1,7 @@
+投影台
+建築師法典
+
+要開始使用，你需要先製作一個投影台。
+<&schematic_table>
+此工作台允許你將紙張轉換為任何已註冊於《沉浸工程》中多方塊結構的 <link;engineered_schematics:schematic_item;投影圖>。
+<br>

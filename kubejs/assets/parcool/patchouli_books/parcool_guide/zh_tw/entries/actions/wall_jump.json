@@ -1,0 +1,16 @@
+{
+    "name": "踢牆跳",
+    "icon": "minecraft:leather_boots",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "踢牆跳是一種透過蹬牆來跳得更高更遠的技能。你需要背對牆壁來觸發。$(br)注意：你無法從冰塊等滑溜的表面獲得高度！"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在空中靠近牆壁時按下踢牆跳鍵 ($(k:parcool.WallJump))"
+        }
+    ]
+}

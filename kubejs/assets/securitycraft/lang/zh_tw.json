@@ -1,0 +1,7 @@
+{
+    "module.securitycraft.reinforced_dispenser.whitelist_module.description": "將白名單模組添加至強化發射器將允許該名單上的玩家與強化發射器進行互動。此外，由白名單內玩家擁有的強化漏斗將能夠從該發射器中提取物品。",
+    "block.securitycraft.secret_bamboo_sign": "秘密竹製告示牌",
+    "block.securitycraft.secret_cherry_sign": "秘密櫻花木告示牌",
+    "item.securitycraft.bamboo_security_sea_raft": "竹製安全海筏",
+    "gui.securitycraft:secure_redstone_interface.receive_inverted_power.tooltip.false": "發出的紅石訊號與接收器收到的訊號相同。"
+}

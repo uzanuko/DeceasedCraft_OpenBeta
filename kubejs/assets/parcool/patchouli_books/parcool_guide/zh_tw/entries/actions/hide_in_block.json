@@ -1,0 +1,23 @@
+{
+    "name": "躲藏於方塊",
+    "icon": "minecraft:hay_block",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以躲藏在特定的方塊中。$(br2)躲藏後，敵對生物將更難發現你，且你的名稱標籤也會對其他玩家隱藏。$(br2)可以躲藏的方塊：$(list)樹葉方塊$(list)乾草塊"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/hide_in_block.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在目標方塊旁蹲下，並按下躲藏鍵 ($(k:parcool.HideInBlock))"
+        }
+    ]
+}

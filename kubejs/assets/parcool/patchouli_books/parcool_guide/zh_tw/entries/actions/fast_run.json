@@ -1,0 +1,23 @@
+{
+    "name": "快速跑步",
+    "icon": "minecraft:diamond_boots",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "現在你是一名跑酷實踐者了！你可以跑得比以前更快。這是 ParCool 的基礎，許多其他動作都需要以此為基礎觸發。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/fast_run.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)疾跑時按住快速跑步鍵 ($(k:parcool.FastRun))"
+        }
+    ]
+}

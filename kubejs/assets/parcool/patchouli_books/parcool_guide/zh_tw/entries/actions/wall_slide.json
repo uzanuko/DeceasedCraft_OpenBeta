@@ -1,0 +1,16 @@
+{
+    "name": "滑牆",
+    "icon": "minecraft:sand",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以藉由摩擦牆面來減緩下落速度。此動作會受方塊摩擦力影響，因此在冰牆上將無法減速。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在空中靠近牆壁時按下滑牆鍵 ($(k:parcool.WallSlide))"
+        }
+    ]
+}

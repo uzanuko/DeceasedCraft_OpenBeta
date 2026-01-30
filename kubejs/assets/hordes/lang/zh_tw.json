@@ -1,0 +1,36 @@
+{
+    "message.hordes.EventStart": "你聽到了附近屍潮的嚎叫聲",
+    "message.hordes.EventEnd": "空氣安靜了下來，屍潮已經停止",
+    "message.hordes.TrySleep": "一股即將到來的恐懼感讓你無法入睡",
+    "message.hordes.title": "屍潮",
+
+    "hordes.subtitle.hordeHowls": "殭屍嚎叫",
+    "hordes.subtitle.infected": "玩家已感染",
+    "hordes.subtitle.immune": "玩家感染已被阻擋",
+
+    "entity.hordes.ZombiePlayer.chat": "%1$s 的殭屍",
+    "entity.hordes.DrownedPlayer.chat": "溺水的 %1$s",
+    "entity.hordes.HuskPlayer.chat": "%1$s 的屍骸",
+
+    "entity.hordes.ZombiePlayer.name": "玩家殭屍",
+    "entity.hordes.DrownedPlayer.name": "溺水玩家",
+    "entity.hordes.HuskPlayer.name": "玩家屍骸",
+
+    "entity.hordes.ZombifiedPiglinBrute.name": "殭屍化豬布林蠻兵",
+    "entity.hordes.ZombieWanderingTrader.name": "殭屍流浪商人",
+    "entity.hordes.ZombiePillager.name": "殭屍掠奪者",
+    "entity.hordes.ZombieVindicator.name": "殭屍衛道士",
+    "entity.hordes.ZombieEvoker.name": "殭屍喚魔者",
+    "entity.hordes.ZombieIllusioner.name": "殭屍幻術師",
+    "entity.hordes.ZombieWitch.name": "殭屍女巫",
+
+    "effect.hordes.infected": "感染",
+    "effect.hordes.immunity": "感染免疫",
+    "death.attack.infection": "%1$s 向感染妥協了。",
+    "death.attack.infection.zombified": "%1$s 已被殭屍化。",
+
+    "tooltip.hordes.cure": "治癒感染",
+    "tooltip.hordes.wearableProtection": "%1$s 感染保護",
+
+    "jei.category.hordes.InfectionCures": "感染治癒方法"
+}

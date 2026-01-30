@@ -1,0 +1,167 @@
+{
+    "block.simplylight.edge_light": "動態邊緣燈 (底部)",
+    "block.simplylight.edge_light.info": "沿著周圍牆面排列，",
+    "block.simplylight.edge_light.info2": "非常適合走廊。",
+    "block.simplylight.edge_light.jei.info": "放置時會根據周圍方塊改變形狀。\n形狀在放置後會固定，讓你可以利用臨時方塊創造特定造型。",
+
+    "block.simplylight.edge_light_top": "動態邊緣燈 (頂部)",
+    "block.simplylight.edge_light_top.info": "沿著周圍牆面排列，",
+    "block.simplylight.edge_light_top.info2": "非常適合走廊。",
+    "block.simplylight.edge_light_top.jei.info": "放置時會根據周圍方塊改變形狀。\n形狀在放置後會固定，讓你可以利用臨時方塊創造特定造型。",
+
+    "block.simplylight.illuminant_black_block": "黑色發光方塊",
+    "block.simplylight.illuminant_black_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_black_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_black_block_on": "黑色發光方塊 (反向)",
+    "block.simplylight.illuminant_black_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_black_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_block": "發光方塊",
+    "block.simplylight.illuminant_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_block_on": "發光方塊 (反向)",
+    "block.simplylight.illuminant_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_blue_block": "藍色發光方塊",
+    "block.simplylight.illuminant_blue_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_blue_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_blue_block_on": "藍色發光方塊 (反向)",
+    "block.simplylight.illuminant_blue_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_blue_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_brown_block": "棕色發光方塊",
+    "block.simplylight.illuminant_brown_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_brown_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_brown_block_on": "棕色發光方塊 (反向)",
+    "block.simplylight.illuminant_brown_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_brown_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_cyan_block": "青色發光方塊",
+    "block.simplylight.illuminant_cyan_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_cyan_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_cyan_block_on": "青色發光方塊 (反向)",
+    "block.simplylight.illuminant_cyan_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_cyan_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_gray_block": "灰色發光方塊",
+    "block.simplylight.illuminant_gray_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_gray_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_gray_block_on": "灰色發光方塊 (反向)",
+    "block.simplylight.illuminant_gray_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_gray_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_green_block": "綠色發光方塊",
+    "block.simplylight.illuminant_green_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_green_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_green_block_on": "綠色發光方塊 (反向)",
+    "block.simplylight.illuminant_green_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_green_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_light_blue_block": "淡藍色發光方塊",
+    "block.simplylight.illuminant_light_blue_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_light_blue_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_light_blue_block_on": "淡藍色發光方塊 (反向)",
+    "block.simplylight.illuminant_light_blue_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_light_blue_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_light_gray_block": "淡灰色發光方塊",
+    "block.simplylight.illuminant_light_gray_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_light_gray_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_light_gray_block_on": "淡灰色發光方塊 (反向)",
+    "block.simplylight.illuminant_light_gray_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_light_gray_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_lime_block": "青檸色發光方塊",
+    "block.simplylight.illuminant_lime_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_lime_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_lime_block_on": "青檸色發光方塊 (反向)",
+    "block.simplylight.illuminant_lime_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_lime_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_magenta_block": "洋紅色發光方塊",
+    "block.simplylight.illuminant_magenta_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_magenta_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_magenta_block_on": "洋紅色發光方塊 (反向)",
+    "block.simplylight.illuminant_magenta_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_magenta_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_orange_block": "橙色發光方塊",
+    "block.simplylight.illuminant_orange_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_orange_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_orange_block_on": "橙色發光方塊 (反向)",
+    "block.simplylight.illuminant_orange_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_orange_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_panel": "發光面板",
+    "block.simplylight.illuminant_panel.info": "簡約 LED 照明面板，",
+    "block.simplylight.illuminant_panel.info2": "可以放置在任何方向。",
+
+    "block.simplylight.illuminant_pink_block": "粉紅色發光方塊",
+    "block.simplylight.illuminant_pink_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_pink_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_pink_block_on": "粉紅色發光方塊 (反向)",
+    "block.simplylight.illuminant_pink_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_pink_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_purple_block": "紫色發光方塊",
+    "block.simplylight.illuminant_purple_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_purple_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_purple_block_on": "紫色發光方塊 (反向)",
+    "block.simplylight.illuminant_purple_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_purple_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_red_block": "紅色發光方塊",
+    "block.simplylight.illuminant_red_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_red_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_red_block_on": "紅色發光方塊 (反向)",
+    "block.simplylight.illuminant_red_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_red_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.illuminant_slab": "發光半磚",
+    "block.simplylight.illuminant_slab.info": "簡約照明半磚，",
+    "block.simplylight.illuminant_slab.info2": "可以放置在任何方向。",
+
+    "block.simplylight.illuminant_yellow_block": "黃色發光方塊",
+    "block.simplylight.illuminant_yellow_block.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_yellow_block.info2": "由 %s 激活。",
+
+    "block.simplylight.illuminant_yellow_block_on": "黃色發光方塊 (反向)",
+    "block.simplylight.illuminant_yellow_block_on.info": "簡約照明方塊，",
+    "block.simplylight.illuminant_yellow_block_on.info2": "由 %s 停用。",
+
+    "block.simplylight.lamp_post": "燈柱",
+    "block.simplylight.lamp_post.info": "三格高的路燈燈柱。",
+    "block.simplylight.lamp_post.info2": "最頂端的方塊會發光。",
+
+    "block.simplylight.lightbulb": "簡約燈泡",
+    "block.simplylight.lightbulb.info": "一顆簡單的燈泡，",
+    "block.simplylight.lightbulb.info2": "可以放置在任何方向。",
+
+    "block.simplylight.rodlamp": "長條燈",
+    "block.simplylight.rodlamp.info": "一個簡單的長條形照明燈。",
+    "block.simplylight.rodlamp.info2": "可以放置在任何方向。",
+
+    "block.simplylight.wall_lamp": "壁燈",
+    "block.simplylight.wall_lamp.info": "可以放置在牆面、天花板或地面。",
+
+    "itemGroup.simplylight": "Simply Light",
+    "simplylight.key.shift": "Shift",
+    "simplylight.redstone": "紅石",
+    "simplylight.shift": "按住 <%s> 以查看更多資訊。"
+}

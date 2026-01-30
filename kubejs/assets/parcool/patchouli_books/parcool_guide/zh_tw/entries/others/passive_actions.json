@@ -1,0 +1,16 @@
+{
+    "name": "被動動作",
+    "icon": "minecraft:brick",
+    "category": "parcool:category_support_features",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "ParCool 增加了一些被動技能與相關動畫。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "下落動畫",
+            "text": "模組新增了長距離下落時的動畫。如果你覺得這個動畫很煩人，可以在設定選單中將其關閉。"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "攀爬桿件",
+    "icon": "minecraft:quartz_pillar",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以攀爬桿狀方塊，例如堆疊的柵欄、鎖鏈、鐵欄杆等。"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "水平走牆",
+    "icon": "minecraft:bricks",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以貼著牆壁進行水平奔跑。這能幫助你跳向遠處的平台。$(br2)雖然有時會被混淆，但在技術上，$(l:actions/wall_run)走牆 (Wall Run)$() 通常指垂直爬升，而非水平移動。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/horizontal_wall_run.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(bold)1.$() 在空中沿著牆壁進入 $(l:parcool:actions/fast_run)快速跑步$() 狀態$(br)$(bold)2.$() 按住水平走牆鍵 ($(k:parcool.HorizontalWallRun))"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "什麼是 ParCool？",
+    "icon": "minecraft:feather",
+    "category": "parcool:category_about",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "感謝遊玩此模組！$(br2)這是一個為 Minecraft Forge 增加更多像 $(bold)跑酷 (Parkour)$() 一樣 $(bold)酷炫$() 動作的模組。$(br)部分動作確實是跑酷技術。$(br2)現在你也是一名跑酷實踐者了。讓我們在 Minecraft 的世界中盡情奔跑吧！"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "parcool:textures/gui/entries/logo_round.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "creativetab.item_scrapper": "物品回收",
+
+    "block.item_scrapper.scrapper_block": "物品回收工作台",
+
+    "item.item_scrapper.scrapping_hammer": "回收錘",
+
+    "key.item_scrapper.place_item": "將物品放置於回收台",
+    "key.categories.item_scrapper": "物品回收",
+
+    "tooltip.item_scrapper.scrappable": "⚒ 可回收",
+    "tooltip.item_scrapper.required_hits": "所需敲擊次數: %s",
+    "tooltip.item_scrapper.explosion_chance": "⚠ 爆炸機率: %s%%",
+    "tooltip.item_scrapper.durability_multiplier": "↔ 套用耐用度倍率",
+    "tooltip.item_scrapper.return_amount": "回收量: %s%% - %s%%",
+
+    "item_scrapper.config.title": "物品回收設定",
+    "item_scrapper.config.max_input_items": "最大顯示輸入物品數: ",
+    "item_scrapper.config.max_output_items": "最大顯示輸出物品數: ",
+    "item_scrapper.config.show_scrappable": "顯示回收指標",
+    "item_scrapper.config.show_hits": "顯示所需敲擊次數",
+    "item_scrapper.config.show_return": "顯示回收量",
+    "item_scrapper.config.show_explosion": "顯示爆炸機率",
+    "item_scrapper.config.show_durability": "顯示耐用度資訊",
+
+    "jei.item_scrapper.scrapping": "物品回收",
+    "jei.item_scrapper.category.scrapping": "物品回收",
+    "jei.item_scrapper.recipe.hits_required": "所需敲擊次數: %s",
+    "jei.item_scrapper.recipe.return_range": "回收範圍: %s-%s%%",
+    "jei.item_scrapper.recipe.explosion_chance": "爆炸風險: %s%%",
+    "jei.item_scrapper.recipe.durability_multiplier": "耐用度會影響產出量",
+    "jei.item_scrapper.tooltip.uncertain_output": "實際產出可能有所變動",
+    "jei.item_scrapper.scrappable.tooltip": "可被回收的物品"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "貓跳",
+    "icon": "minecraft:cat_spawn_egg",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)貓跳$()是一種用於跳躍並抓牢牆頂、柵欄等高處的技能。$(br)據說這是跑酷的基本技能之一。$(br)跑酷者會透過腿部的動作吸收落地衝擊。$(br2)在此模組中，它被實作為一種長距離跳躍。請注意冷卻時間。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(bold)1.$() 進入 $(l:parcool:actions/fast_run)快速跑步$() 狀態$(br)$(bold)2.$() 快速按下蹲下鍵$(br)$(bold)3.$() 快速放開蹲下鍵$(br2)同時建議搭配 $(l:parcool:actions/cling_to_cliff)攀附懸崖$() 使用。"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "能量飲",
+    "icon": "minecraft:potion{\"Potion\":\"parcool:energy_drink\"}",
+    "category": "parcool:category_support_features",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你是否經常感到體力不支？與其 $(strike)修改設定$()，不如來試試 $(bold)能量飲$() 吧！飲用後，你可以執行 ParCool 動作而完全不消耗體力！"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{\"Potion\":\"parcool:energy_drink\"}",
+            "title": "製作能量飲",
+            "text": "能量飲可以透過釀造台製作。$(br2)配方如下：$(list)[粗製藥水] + [下界英石]$(list)[低品質能量飲] + [下界英石]"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{\"Potion\":\"parcool:poor_energy_drink\"}",
+            "title": "低品質能量飲",
+            "text": "低品質能量飲是能量飲的初階版本。雖然製作簡單，但帶有一些負面效果。$(br2)配方如下：$(list)[粗製藥水] + [毒馬鈴薯]$(list)[粗製藥水] + [生雞肉]"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "著地受身",
+    "icon": "minecraft:slime_ball",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)著地受身$()是保護我們免受落地衝擊的技能。$(br2)目前已實裝兩種：$(bold)翻滾$()與$(bold)安全著地$()。"
+        },
+        {
+            "type": "patchouli:image",
+            "images": [
+                "parcool:textures/gui/entries/breakfall_tap.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻滾",
+            "text": "$(bold)翻滾$()是著地受身的一種。它能將落地衝擊轉化為向前翻滾的動能。$(br2)這有時會被誤解，但在跑酷中，$(italic)翻滾 (Roll)$() 是一種著地技術，因此 ParCool 的翻滾也僅在著地時觸發。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)著地時按住前進或後退鍵，以及著地受身鍵 ($(k:parcool.Breakfall))"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "安全著地",
+            "text": "$(bold)安全著地$()也是著地受身的一種。它透過彎曲雙腿來吸收衝擊。$(br2)順帶一提，史蒂夫到底要怎麼彎曲他的腿？"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)著地時按住著地受身鍵 ($(k:parcool.Breakfall))"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "體力系統",
+    "icon": "minecraft:golden_apple",
+    "category": "parcool:category_about",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "本模組為遊戲增加了「體力」的概念。$(br2)當你執行 ParCool 動作時會消耗體力。當體力耗盡時，你將會受到懲罰：$(list)無法疾跑且移動緩慢$(list)大部分 ParCool 動作將會被停用$(br)請務必多加留意體力狀況。"
+        }
+    ]
+}

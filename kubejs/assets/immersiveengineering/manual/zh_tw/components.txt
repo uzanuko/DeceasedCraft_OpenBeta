@@ -1,0 +1,9 @@
+製作組件
+核心零件
+許多機器與工具都是由多個子組件構建而成的。其中一些你會經常使用，因此它們在本手冊中有專門的條目。 §2鐵製§r 與 §2鋼製機械組件§r 是大多數多方塊結構與機械不可或缺的一部分。<np>
+<&create_bp>由於你會頻繁製作這些組件，建議為其編寫一份 <link;blueprints;工程師藍圖>。
+<&mech_components>在 <link;workbench;工程師工作台> 中使用此藍圖可以讓你以更低的成本製作組件。<np>
+<&elec_components>§2電子組件§r 比起機械組件更為複雜，使用頻率也較低。然而，對於任何具備進階控制能力的設備，如 <link;item_batcher;物品批次處理器> 或 <link;turrets;砲塔>，它們都是必不可少的。<np>
+<&light_bulbs>§2白熾燈泡§r 是由碳化竹絲或紙絲製成的，通電時會產生光與熱。它們主要用於製作 <link;lighting;電提燈;electric_lantern>。<np>
+<&tubes>另一個雖然較少使用但很重要的組件是 §2真空管§r。這些昂貴的零件用於 <link;logic_circuits;邏輯電路> 與更複雜的電子機械。<np>
+<&pcb>§2電路板§r 是一種絕緣銅板，可以在上面焊接多種組件以製作 <link;logic_circuits;...

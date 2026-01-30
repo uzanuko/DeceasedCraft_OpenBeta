@@ -1,0 +1,23 @@
+{
+    "name": "爬行",
+    "icon": "minecraft:nautilus_shell",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以隨處爬行並穿過狹窄的通道。$(br)請同時參考 $(l:parcool:actions/slide)滑行$()。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/crawl.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)按下爬行鍵 ($(k:parcool.Crawl))"
+        }
+    ]
+}

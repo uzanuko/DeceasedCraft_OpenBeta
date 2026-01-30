@@ -1,0 +1,12 @@
+圓鋸
+我們不去萊溫霍姆
+<&recipes>這款大型手持圓鋸旨在快速清理樹木與植被，以免妨礙您整潔的工廠建設。
+在 <link;workbench;工程師工作台;start> 安裝鋸片並填充 <link;refinery;生物柴油;diesel> 或其他燃料後，它可以用來砍伐從白樺到巨型叢林木的各種樹木。
+
+與其他工具一樣，圓鋸可以在工作台中進行改裝。這些升級會影響內部儲罐的容量與鋸片的耐用度。
+<np>
+<&rockcutter_recipe>將普通鋸片更換為 §2石切鋸片§r 後，圓鋸可以用來整齊地切下石塊，效果等同於 §2絲綢之觸§r。但這種鑲鑽鋸片不再適合砍伐木頭。<np>
+<&grinding_recipe>§2磨盤§r 由懸浮在 <link;plastic;酚醛樹脂> 中的細鋁砂製成。雖然耐用度較低，但這些磁碟非常適合快速切割金屬方塊，但在其他材料上容易損壞。此外，它們還能用來刮除銅塊的鏽斑或蠟層，或剝除原木的樹皮，效果如同 §2斧頭§r。<np>
+<&tank_recipe>§2大型儲罐§r 能增加圓鋸 2000 mB 的流體容量。<np>
+<&lube_recipe>§2進階潤滑系統§r 會為鋸片塗抹額外的潤滑劑，降低其損耗速度。<np>
+<&quiver_recipe>在圓鋸側面安裝 §2鋸片架§r 後，您可以攜帶兩片備用鋸片。您可以透過 <config;b;tools.chemthrower.scroll;蹲下並使用滾輪，或使用設定好的快捷鍵;使用> 快捷鍵 §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r 來切換鋸片。

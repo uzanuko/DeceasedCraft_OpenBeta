@@ -1,0 +1,62 @@
+{
+    "name": "鳴謝",
+    "icon": "minecraft:written_book",
+    "category": "parcool:category_about",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "這是本模組的開發人員與翻譯人員清單。$(br2)同時也要感謝所有未列入名單但做出貢獻的人。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "開發人員",
+            "text": "主要開發$()$(italic)$(list)alRex-U$()"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "音效",
+            "text": "$(italic)$(list)SquARzY"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (英文)",
+            "text": "$(bold)en_us$()$(italic)$(list)alRex-U"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (日文)",
+            "text": "$(bold)ja_jp$()$(italic)$(list)alRex-U"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (中文)",
+            "text": "$(bold)ch_zn$()$(italic)$(list)CatalystGinger$(list)GuoDaiYi$(list)njt-233$(list)Kasualix"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (法文)",
+            "text": "$(bold)fr-fr$()$(italic)$(list)COwOkie"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (巴西葡萄牙文)",
+            "text": "$(bold)pt-br$()$(italic)$(list)FITFC"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (西班牙文)",
+            "text": "$(bold)es-es$()$(italic)$(list)GhostOfCazador$(list)elAltrex$(list)xRennKu$(br)$(bold)es-mx$()$(italic)$(list)xRennKu"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (韓文)",
+            "text": "$(bold)ko-kr$()$(italic)$(list)Mexwell12"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "翻譯人員 (俄文)",
+            "text": "$(bold)ru-ru$()$(italic)$(list)MasterXort"
+        }
+    ]
+}

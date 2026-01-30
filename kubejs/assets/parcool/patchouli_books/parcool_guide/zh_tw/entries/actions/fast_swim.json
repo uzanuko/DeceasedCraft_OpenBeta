@@ -1,0 +1,16 @@
+{
+    "name": "快速游泳",
+    "icon": "minecraft:water_bucket",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你也可以游得比以前更快了：$(bold)快速游泳$()。它包含原創的動畫。$(br2)其操作方式與快速跑步相同。"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)游泳/疾跑時按住快速跑步鍵 ($(k:parcool.FastRun))"
+        }
+    ]
+}

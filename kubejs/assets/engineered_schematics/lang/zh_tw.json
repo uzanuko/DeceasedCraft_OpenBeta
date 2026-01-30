@@ -1,0 +1,23 @@
+{
+    "language": "繁體中文",
+    "language.code": "zh_tw",
+    "language.region": "Taiwan",
+    "block.engineered_schematics.schematic_table_block": "投影台",
+    "desc.engineered_schematics.schematic_table": "投影台",
+    "itemGroup.engineered_schematics": "Engineered Schematics",
+    "engineered_schematics.gui.schematic_table.mirror": "鏡像",
+    "item.engineered_schematics.multiblock_schematic.specific": "%s 投影圖",
+    "item.engineered_schematics.multiblock_schematic.specific.mirrored": "%s 投影圖 (鏡像)",
+    "item.engineered_schematics.multiblock_schematic": "空白投影圖",
+    "desc.engineered_schematics.info.schematic.size": "%s",
+    "desc.engineered_schematics.info.schematic.block_info": "按住 [%s] 查看材料清單",
+    "desc.engineered_schematics.info.schematic.no_multiblock": "空白投影圖",
+    "desc.engineered_schematics.info.schematic.moved": "投影已移動",
+    "desc.engineered_schematics.info.schematic.rotated": "投影已旋轉",
+    "desc.engineered_schematics.info.schematic.placed": "(僅限創意模式) 投影已放置",
+    "desc.engineered_schematics.info.schematic.tier": "可以使用 %s 組裝",
+    "desc.engineered_schematics.info.schematic.ie_tier": "工程師錘",
+    "item.engineered_schematics.multiblock_schematic.formed": "已完成",
+    "item.engineered_schematics.multiblock_schematic.error": "方塊錯誤",
+    "manual.engineered_schematics.main": "Engineered Schematics"
+}

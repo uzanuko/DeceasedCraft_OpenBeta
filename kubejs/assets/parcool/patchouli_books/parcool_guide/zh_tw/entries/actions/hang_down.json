@@ -1,0 +1,23 @@
+{
+    "name": "懸掛",
+    "icon": "minecraft:stone",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以懸掛在某些方塊下方，例如鎖鏈或末地燭。$(br2)懸掛時也可以移動，或按下跳躍鍵向前跳躍。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/hang_down.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在細長的水平方塊下方按下懸掛鍵 ($(k:parcool.HangDown))$(br)"
+        }
+    ]
+}

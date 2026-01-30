@@ -1,0 +1,30 @@
+{
+    "name": "攀附懸崖",
+    "icon": "minecraft:stone",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "你可以抓在方塊邊緣並停在那裡。當然，你也可以緩慢地移動。$(br)按下跳躍鍵還可以往上爬上該方塊。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/cling_to_cliff_1.png"
+            ]
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/cling_to_cliff_2.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在牆邊按下攀附懸崖鍵 ($(k:parcool.ClingToCliff))$(br)"
+        }
+    ]
+}

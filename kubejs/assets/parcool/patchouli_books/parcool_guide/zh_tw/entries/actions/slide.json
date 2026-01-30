@@ -1,0 +1,23 @@
+{
+    "name": "滑行",
+    "icon": "minecraft:yellow_dye",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)滑行$()是從$(l:parcool:actions/crawl)爬行$()衍生出的動作。讓你能快速穿過低矮的空間。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/slide.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(list)在 $(l:parcool:actions/fast_run)快速跑步$() 時按下爬行鍵"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "走牆",
+    "icon": "minecraft:stone_bricks",
+    "category": "parcool:category_actions",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)走牆$()是一種利用牆面垂直爬升以克服高處障礙的技術。$(br)請不要將其與 $(l:actions/horizontal_wall_run)水平走牆$() 混淆。$(br)$(br)請注意，如果牆面材料非常滑（例如冰），走牆將會失敗。"
+        },
+        {
+            "type": "patchouli:image",
+            "border": "true",
+            "images": [
+                "parcool:textures/gui/entries/vertical_wall_run.png"
+            ]
+        },
+        {
+            "type": "patchouli:text",
+            "title": "如何使用",
+            "text": "$(bold)1.$() 視線看向水平線上方，並以 $(l:parcool:actions/fast_run)快速跑步$() 助跑$(br)$(bold)2.$() 跳向牆壁並按住跳躍鍵。$(br)$(br)這需要一點練習，請多嘗試幾次。"
+        }
+    ]
+}
