@@ -1,0 +1,12 @@
+礦石
+挖個洞吧
+<&alu>§l鋁土礦§r 在世界中分佈於 <config;i;ores.bauxite.min_y> 至 <config;i;ores.bauxite.max_y> 層之間，需要使用石鎬採集。
+其粗礦可熔煉成鋁錠，這是高壓電力架構中不可或缺的一部分。
+<&lead>§l鉛礦石§r 在世界中分佈於 <config;i;ores.lead.min_y> 至 <config;i;ores.lead.max_y> 層之間，需要使用鐵鎬採集。
+其粗礦可熔煉成鉛錠，用於製作早期的積能器。
+<&silver>§l銀礦石§r 在世界中分佈於 <config;i;ores.silver.min_y> 至 <config;i;ores.silver.max_y> 層之間，需要使用鐵鎬採集。
+其粗礦可熔煉成銀錠，可與金合金化製成電金，這是一種更有效的導體。
+<&nickel>§l鎳礦石§r 在世界中分佈於 <config;i;ores.nickel.min_y> 至 <config;i;ores.nickel.max_y> 層之間，但在 <config;i;ores.deep_nickel.max_y> 以下更為豐富。需要使用鐵鎬採集。
+其粗礦可熔煉成鎳錠，可與銅合金化製成康銅，這是一種用於建造 <link;thermoelectric;熱電發電機;start> 的耐熱導體。
+<&uranium>§l鈾礦石§r 在世界中分佈於 <config;i;ores.uranium.min_y> 至 <config;i;ores.uranium.max_y> 層之間，需要使用鐵鎬採集。
+其粗礦可熔煉成鈾錠，用於電力生產與特殊零件。

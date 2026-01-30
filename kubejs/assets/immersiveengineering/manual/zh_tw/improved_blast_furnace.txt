@@ -1,0 +1,6 @@
+工業高爐
+工業化精煉
+<&brick_recipe>工業高爐是一種更專業的 <link;crude_blast_furnace;製作鋼鐵> 方式。它不僅允許輸入與輸出的自動化，還可以配備 <link;improved_blast_furnace;預熱器;preheater>，透過添加熱空氣來加速精煉過程。
+該爐子由強化磚製成，因此建議你將第一批產出的鋼鐵花在這次升級上。
+<&multiblock>該爐子的結構與其前身粗製高爐相似，但磚塊經過強化，並在頂部增加了一個用於引導輸入端的漏斗。鋼鐵從爐子前方產出，爐渣從後方產出，且爐子會自動將產出物排入相連的物品欄或 <link;conveyors;輸送帶>。鐵與焦炭從頂部輸入。<np>
+<&preheater>高爐預熱器用於加熱空氣並將其吹入爐內，以加速鐵的精煉過程。每個爐子最多可以在兩側的接口連接兩個預熱器，且每個預熱器需要 <config;i;machines.preheater_consumption> Flux/t 才能運作。

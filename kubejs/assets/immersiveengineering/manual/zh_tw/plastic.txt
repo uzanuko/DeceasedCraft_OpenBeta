@@ -1,0 +1,12 @@
+樹脂與耐熱塑料
+太神奇了！
+<&resin>酚醛樹脂是一種黏稠且具備附著性的流體，可以被模塑成一種名為「耐熱塑料 (Duroplast)」的堅硬塑料。這種令人驚嘆的新材料堅硬、不燃且不導電，使其成為電力工程中極佳的絕緣體。
+此外，其可塑性使其在大規模生產中比木材或陶瓷更可靠。<np>
+<&acetaldehyde>然而，其生產過程較為複雜，依賴於僅能在 <link;refinery;§o§n煉油廠§r> 內進行的複雜化學程序。<br>
+首先，透過植物發酵獲得的 <link;fermenter;乙醇;start> 必須氧化成乙醛。此過程使用 §2銀板§r 作為催化劑，並將煉油廠的其中一個儲罐裝滿乙醇，另一個儲罐則保持清空。
+產出的乙醛隨後會被轉移到 §o第二座§r 煉油廠，並與 <link;cokeoven;雜酚油> 結合創造出 §2酚醛樹脂§r。此過程不需要催化劑。<np>
+<&duroplast_sheet>耐熱塑料物品是透過在 <link;bottling_machine;§o§n裝瓶機§r> 中將樹脂填充到適當的 <link;metal_press;模具;mold_recipes> 內製作的。該機器能夠在這些模具中施加足夠的熱量與壓力，以激活樹脂的硬化程序。<br>
+產出的薄板被用於製作 <link;components;進階電子組件;elec_components> 與 <link;components;電路板;pcb>，在其中充當絕緣體。<np>
+<&duroplast_block>固體耐熱塑料塊可用於建築與裝飾目的，儘管並非所有人都欣賞它的顏色。然而，更重要的是，在製作 <link;wiring;電線接線端子與繼電器;connector_recipes> 時，它們可以用來替代 §2紅陶§r，從而減少所需的黏土量！<np>
+<&fiberboard>纖維板是由壓縮的 <link;sawmill;鋸末;sawdust> 與樹脂混合製成的緻密方塊。它與木材具有相同的屬性，在大多數配方中可作為木板的替代品。這是回收廢料的絕佳方式！
+<&empty_shell>你也可以在裝瓶機中使用樹脂製作供 <link;bullets;彈藥;> 使用的空藥筒。

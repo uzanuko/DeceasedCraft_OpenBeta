@@ -1,0 +1,7 @@
+挖掘機
+比矮人更強
+<&excavator>挖掘機是現代工程學的巔峰之一。
+它能夠從一般採礦無法觸及的礦脈中挖掘出 <link;minerals;礦物>。
+作為交換，挖掘機是一座複雜的結構，需要 <config;i;machines.excavator.consumption> Flux/t 才能運作。
+<&wheel><&full>該結構由兩個部分組成：第一頁顯示的馬達，以及第二頁顯示的挖掘輪，挖掘輪會安裝在馬達的「支架」上。
+馬達的能量輸入口在其側面，背面配有紅石控制面板與物品輸出口。<br>隨著挖掘機挖掘礦物，礦脈的產量會緩慢減少，但一個礦脈最多可提供 <config;i;machines.excavator.yield> 塊礦石。
