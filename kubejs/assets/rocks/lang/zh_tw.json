@@ -1,0 +1,51 @@
+{
+    "itemGroup.rocks": "就是這顆石！(This Rocks!)",
+
+    "block.rocks.rock": "石頭",
+    "block.rocks.granite_rock": "花崗岩石",
+    "block.rocks.diorite_rock": "閃長岩石",
+    "block.rocks.andesite_rock": "安山岩石",
+    "block.rocks.sand_rock": "沙岩石",
+    "block.rocks.red_sand_rock": "紅沙岩石",
+    "block.rocks.gravel_rock": "礫石",
+    "block.rocks.end_stone_rock": "終界石岩",
+    "block.rocks.netherrack_rock": "地獄石岩",
+    "block.rocks.soul_soil_rock": "靈魂土岩",
+
+    "block.rocks.oak_stick": "橡木小木棍",
+    "block.rocks.birch_stick": "樺木小木棍",
+    "block.rocks.spruce_stick": "杉木小木棍",
+    "block.rocks.jungle_stick": "叢林木小木棍",
+    "block.rocks.acacia_stick": "相思木小木棍",
+    "block.rocks.dark_oak_stick": "黑橡木小木棍",
+    "block.rocks.mangrove_stick": "紅樹林木小木棍",
+    "block.rocks.cherry_stick": "櫻花木小木棍",
+    "block.rocks.bamboo_stick": "竹小木棍",
+    "block.rocks.crimson_stick": "緋紅小木棍",
+    "block.rocks.warped_stick": "扭曲小木棍",
+
+    "block.rocks.geyser": "間歇泉",
+    "block.rocks.nether_geyser": "岩漿間歇泉",
+
+    "block.rocks.pinecone": "松果",
+    "block.rocks.seashell": "貝殼",
+    "block.rocks.starfish": "海星",
+
+    "item.rocks.cobblestone_splitter": "鵝卵石碎塊",
+    "item.rocks.granite_splitter": "花崗岩碎塊",
+    "item.rocks.diorite_splitter": "閃長岩碎塊",
+    "item.rocks.andesite_splitter": "安山岩碎塊",
+    "item.rocks.sandstone_splitter": "沙岩碎塊",
+    "item.rocks.red_sandstone_splitter": "紅沙岩碎塊",
+    "item.rocks.end_stone_splitter": "終界石碎塊",
+    "item.rocks.netherrack_splitter": "地獄石碎塊",
+    "item.rocks.soul_soil_splitter": "靈魂土碎塊",
+
+    "rocks.midnightconfig.title": "This Rocks! 設定",
+    "rocks.midnightconfig.needs_restart": "§c 更改設定後請重新啟動遊戲！",
+    "rocks.midnightconfig.rocks": "§a石頭",
+    "rocks.midnightconfig.sticks": "§a木棍",
+    "rocks.midnightconfig.misc": "§a雜項",
+    "rocks.midnightconfig.underwater_seashell": "水下貝殼",
+    "rocks.midnightconfig.underwater_starfish": "水下海星"
+}
